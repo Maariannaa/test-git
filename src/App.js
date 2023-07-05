@@ -9,6 +9,7 @@ function App() {
         <p>
           <code>Git</code>
         </p>
+        <p>new commit</p>
       </header>
     </div>
   );
